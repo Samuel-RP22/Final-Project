@@ -1,0 +1,31 @@
+File,Media,Class
+apple.jpg,Image,Orange - Smooth
+baboon.jpg,Image,Blue - Medium texture
+board.jpg,Image,Green - Highly textured
+coffee.png,Image,Orange - Medium texture
+coins.png,Image,Grayscale - Medium texture
+gravel.png,Image,Grayscale - Highly textured
+home.jpg,Image,Blue - Medium texture
+moon.png,Image,Grayscale - Smooth
+smarties.png,Image,Red - Smooth
+starry_night.jpg,Image,Blue - Highly textured
+chirping_birds_1.wav,Audio,Medium noise - High pitch
+chirping_birds_2.wav,Audio,High noise - Low pitch
+cow_1.wav,Audio,Low noise - Low pitch
+cow_2.wav,Audio,Low noise - Medium pitch
+rain_1.wav,Audio,High noise - No clear pitch
+rain_2.wav,Audio,High noise - No clear pitch
+siren_1.wav,Audio,Low noise - Medium pitch
+siren_2.wav,Audio,High noise - Low pitch
+vacuum_cleaner_1.wav,Audio,High noise - No clear pitch
+vacuum_cleaner_2.wav,Audio,High noise - High pitch
+news_ca01.txt,Text,Politics/News
+news_ca02.txt,Text,Politics/News
+news_ca03.txt,Text,Politics/News
+news_ca04.txt,Text,Politics/News
+religion_cd01.txt,Text,Religion
+religion_cd02.txt,Text,Religion
+religion_cd03.txt,Text,Religion
+romance_cp01.txt,Text,Romance/Fiction
+romance_cp02.txt,Text,Romance/Fiction
+romance_cp03.txt,Text,Romance/Fiction
